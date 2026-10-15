@@ -1,2 +1,2 @@
-# ai-lab
-Collection of Machine Learning Tools
+# Regresi Linier
+Algoritma yang menerapkan persamaan linier dalam menentukan pola data
